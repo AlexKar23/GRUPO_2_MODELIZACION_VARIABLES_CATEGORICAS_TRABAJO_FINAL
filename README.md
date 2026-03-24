@@ -21,9 +21,6 @@ El modelo predecirá el **tramo salarial esperado (`TR_SUELDO`)** de un candidat
 * **Modelos a evaluar:** Regresión Logística Ordinal (basado en *proportional odds*) vs. Modelos basados en árboles de decisión (Random Forest, XGBoost/LightGBM).
 
 ## 💡 Principales Hallazgos
-*(🚨 Nota para el equipo: Según las reglas del repositorio, debéis rellenar este apartado al finalizar el proyecto para que sea legible sin abrir los notebooks. Aquí tenéis una estructura de ejemplo para cuando terminéis).*
 
-1. **Hallazgos del EDA:** [Ej: La moda salarial se sitúa en el tramo 4 (1.500-1.999€, ~33% de los empleados), pero varía fuertemente según la rama de conocimiento].
-2. **Rendimiento de los Modelos:** [Ej: El modelo de Regresión Logística Ordinal logró un accuracy de X%, pero el XGBoost redujo los errores de salto entre tramos extremos].
-3. **Variables más determinantes (SHAP):** [Ej: La movilidad interprovincial (MOV_IN) y la rama (RAMA) son los factores que más influyen en alcanzar los tramos 6 y 7 (≥2.500€)].
+
 
